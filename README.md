@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Sabsab! 👋</h1>
 <h3 align="center">A beginner web developer</h3>
-
-- 👀 I’m interested in ****
   
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js**
+- 🌱 I’m currently learning: **JavaScript, React.js, Node.js**
   
-- 🎨 Fun fact **I like drawing semirealistic fanart**
+- 🎨 Fun fact: **I like drawing semirealistic fanart**
 
 Thanks for stopping by! 🙇‍♀️
 
