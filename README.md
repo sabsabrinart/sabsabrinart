@@ -1,15 +1,11 @@
-<h1 align="center">Hi there, I'm Sabsab! 👋</h1>
+<h1 align="center">Hi, I'm Sabsab! 👋</h1>
 <h3 align="center">A beginner web developer 👩‍💻</h3>
-  
+
+Welcome to my GitHub profile! I'm a self-taught web developer with a passion for creating engaging and user-friendly web applications.
+
 - 🌱 I’m currently learning: **JavaScript, React.js, Node.js**
-  
 - 🎨 Fun fact: **I like drawing semirealistic fanart**
 
-Thanks for stopping by! 🙇‍♀️
+Thank you for visiting my profile! 🙇‍♀️
 
 <!--- Terakhir dibuat 8 juli 2023 ---!>
-
-<!---
-sabsabrinart/sabsabrinart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
