@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sabrienna! 👋</h1>
+<h1 align="center">Hi there, I'm Sabsab! 👋</h1>
 <h3 align="center">A beginner web developer 👩‍💻</h3>
   
 - 🌱 I’m currently learning: **JavaScript, React.js, Node.js**
